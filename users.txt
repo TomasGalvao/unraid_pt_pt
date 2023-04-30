@@ -25,5 +25,5 @@ Use only lowercase letters, digits, underscores and dashes=Usar apenas letras mi
 User %s has been deleted=O utilizador %s foi excluído
 User name=Nome do utilizador
 
-; Note: April 29, 2023 - 1 missing translations
+; Note: April 29, 2023 - 0 missing translations
 Click Add User to create a user for remote shares access=Clique em **Adicionar utilizador** para criar um utilizador para acesso a partilhas remotas
