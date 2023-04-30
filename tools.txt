@@ -335,5 +335,5 @@ não é único (isto é comum com os leitores de cartões USB).
 Para mais informações, por favor [Contactar o Suporte].(https://lime-technology.com/contact).
 :end
 
-; Note: April 29, 2023 - 1 missing translations
-PCI Devices No IOMMU Groups Available=PCI Devices (No IOMMU Groups Available)
+; Note: April 29, 2023 - 0 missing translations
+PCI Devices No IOMMU Groups Available=Dispositivos PCI (Nao existem grupos IOMMU disponiveis)
